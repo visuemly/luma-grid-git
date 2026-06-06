@@ -1,2 +1,2 @@
 # luma-grid-git
-Luma Grid Tool
+Interactive video rasterizer
