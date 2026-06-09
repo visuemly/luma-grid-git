@@ -1,2 +1,5 @@
 # luma-grid-git
-Interactive video rasterizer
+
+Luma Grid is an interactive video rasterizer that transforms video footage and live webcam input into dynamic grids of geometric shapes. By analyzing the brightness values of each frame, the tool reconstructs moving images using circles or rectangles whose size and appearance react to the underlying visual information.
+Users can upload custom videos or switch to a live webcam feed and explore a wide range of visual styles through intuitive controls. Parameters such as grid spacing, shape size, stroke weight, color palette, and shape mode can be adjusted in real time, allowing for both subtle image abstractions and highly experimental visual compositions.
+Designed as a creative tool for generative art, motion graphics, and visual experimentation, Luma Grid offers an accessible way to transform ordinary moving images into unique rasterized animations and graphic patterns. Finished results can be captured directly within the application for documentation or further creative use.
