@@ -161,7 +161,7 @@ guiHolder.mousePressed((e) => {
 	// VIDEO/////////////////////////////////////////
 	
 
-vid = createVideo(["/data/videos/Vogel.mp4"])
+vid = createVideo(["data/videos/Vogel.mp4"])
 
 vid.volume(0)
 
